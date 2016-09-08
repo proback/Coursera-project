@@ -3,7 +3,7 @@ Our final (tidy) data set contains means of all 66 features containing mean() or
 total of 180 rows and 68 columns.  The final data set is written as a .txt file called "course3project.txt".  Specific 
 variables are described below:
 
-1) subject	- subject ID (1-30)
+1) subject	- subject ID (1-30) <br>
 2) activity - one of 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
 The remaining 66 columns reflect means across a specific subject and activity.  Note that the measurements are standardized 
