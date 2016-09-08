@@ -18,72 +18,72 @@ on a -1 to 1 scale and thus unitless.  Here is a guide to these variable names:
  - "Jerk" refers to a measure derived from body linear acceleration and angular velocity
  - "Magnitude" refers to signal magnitude based on Euclidean norm
 
-3) timeBodyAccelerometer-Mean-Xaxis
-4) timeBodyAccelerometer-Mean-Yaxis
-5) timeBodyAccelerometer-Mean-Zaxis
-6) timeBodyAccelerometer-SD-Xaxis
-7) timeBodyAccelerometer-SD-Yaxis
-8) timeBodyAccelerometer-SD-Zaxis
-9) timeGravityAccelerometer-Mean-Xaxis
-10) timeGravityAccelerometer-Mean-Yaxis
-11) timeGravityAccelerometer-Mean-Zaxis
-12) timeGravityAccelerometer-SD-Xaxis
-13) timeGravityAccelerometer-SD-Yaxis
-14) timeGravityAccelerometer-SD-Zaxis
-15) timeBodyAccelerometerJerk-Mean-Xaxis	
-16) timeBodyAccelerometerJerk-Mean-Yaxis	
-17) timeBodyAccelerometerJerk-Mean-Zaxis	
-18) timeBodyAccelerometerJerk-SD-Xaxis	
-19) timeBodyAccelerometerJerk-SD-Yaxis	
-20) timeBodyAccelerometerJerk-SD-Zaxis	
-21) timeBodyGyroscope-Mean-Xaxis	
-22) timeBodyGyroscope-Mean-Yaxis	
-23) timeBodyGyroscope-Mean-Zaxis	
-24) timeBodyGyroscope-SD-Xaxis	
-25) timeBodyGyroscope-SD-Yaxis	
-26) timeBodyGyroscope-SD-Zaxis	
-27) timeBodyGyroscopeJerk-Mean-Xaxis	
-28) timeBodyGyroscopeJerk-Mean-Yaxis	
-29) timeBodyGyroscopeJerk-Mean-Zaxis	
-30) timeBodyGyroscopeJerk-SD-Xaxis	
-31) timeBodyGyroscopeJerk-SD-Yaxis	
-32) timeBodyGyroscopeJerk-SD-Zaxis	
-33) timeBodyAccelerometerMagnitude-Mean	
-34) timeBodyAccelerometerMagnitude-SD	
-35) timeGravityAccelerometerMagnitude-Mean	
-36) timeGravityAccelerometerMagnitude-SD	
-37) timeBodyAccelerometerJerkMagnitude-Mean	
-38) timeBodyAccelerometerJerkMagnitude-SD	
-39) timeBodyGyroscopeMagnitude-Mean	
-40) timeBodyGyroscopeMagnitude-SD	
-41) timeBodyGyroscopeJerkMagnitude-Mean	
-42) timeBodyGyroscopeJerkMagnitude-SD	
-43) frequencyBodyAccelerometer-Mean-Xaxis	
-44) frequencyBodyAccelerometer-Mean-Yaxis	
-45) frequencyBodyAccelerometer-Mean-Zaxis	
-46) frequencyBodyAccelerometer-SD-Xaxis	
-47) frequencyBodyAccelerometer-SD-Yaxis	
-48) frequencyBodyAccelerometer-SD-Zaxis	
-49) frequencyBodyAccelerometerJerk-Mean-Xaxis	
-50) frequencyBodyAccelerometerJerk-Mean-Yaxis	
-51) frequencyBodyAccelerometerJerk-Mean-Zaxis	
-52) frequencyBodyAccelerometerJerk-SD-Xaxis	
-53) frequencyBodyAccelerometerJerk-SD-Yaxis	
-54) frequencyBodyAccelerometerJerk-SD-Zaxis	
-55) frequencyBodyGyroscope-Mean-Xaxis	
-56) frequencyBodyGyroscope-Mean-Yaxis	
-57) frequencyBodyGyroscope-Mean-Zaxis	
-58) frequencyBodyGyroscope-SD-Xaxis	
-59) frequencyBodyGyroscope-SD-Yaxis	
-60) frequencyBodyGyroscope-SD-Zaxis	
-61) frequencyBodyAccelerometerMagnitude-Mean	
-62) frequencyBodyAccelerometerMagnitude-SD	
-63) frequencyBodyBodyAccelerometerJerkMagnitude-Mean	
-64) frequencyBodyBodyAccelerometerJerkMagnitude-SD	
-65) frequencyBodyBodyGyroscopeMagnitude-Mean	
-66) frequencyBodyBodyGyroscopeMagnitude-SD	
-67) frequencyBodyBodyGyroscopeJerkMagnitude-Mean	
-68) frequencyBodyBodyGyroscopeJerkMagnitude-SD
+3) timeBodyAccelerometer-Mean-Xaxis <br>
+4) timeBodyAccelerometer-Mean-Yaxis <br>
+5) timeBodyAccelerometer-Mean-Zaxis <br>
+6) timeBodyAccelerometer-SD-Xaxis <br>
+7) timeBodyAccelerometer-SD-Yaxis <br>
+8) timeBodyAccelerometer-SD-Zaxis <br>
+9) timeGravityAccelerometer-Mean-Xaxis <br>
+10) timeGravityAccelerometer-Mean-Yaxis <br>
+11) timeGravityAccelerometer-Mean-Zaxis <br>
+12) timeGravityAccelerometer-SD-Xaxis <br>
+13) timeGravityAccelerometer-SD-Yaxis <br>
+14) timeGravityAccelerometer-SD-Zaxis <br>
+15) timeBodyAccelerometerJerk-Mean-Xaxis	 <br>
+16) timeBodyAccelerometerJerk-Mean-Yaxis	 <br>
+17) timeBodyAccelerometerJerk-Mean-Zaxis	 <br>
+18) timeBodyAccelerometerJerk-SD-Xaxis	 <br>
+19) timeBodyAccelerometerJerk-SD-Yaxis	 <br>
+20) timeBodyAccelerometerJerk-SD-Zaxis	 <br>
+21) timeBodyGyroscope-Mean-Xaxis	 <br>
+22) timeBodyGyroscope-Mean-Yaxis	 <br>
+23) timeBodyGyroscope-Mean-Zaxis	 <br>
+24) timeBodyGyroscope-SD-Xaxis	 <br>
+25) timeBodyGyroscope-SD-Yaxis	 <br>
+26) timeBodyGyroscope-SD-Zaxis	 <br>
+27) timeBodyGyroscopeJerk-Mean-Xaxis <br>	
+28) timeBodyGyroscopeJerk-Mean-Yaxis	 <br>
+29) timeBodyGyroscopeJerk-Mean-Zaxis	 <br>
+30) timeBodyGyroscopeJerk-SD-Xaxis	 <br>
+31) timeBodyGyroscopeJerk-SD-Yaxis	 <br>
+32) timeBodyGyroscopeJerk-SD-Zaxis	 <br>
+33) timeBodyAccelerometerMagnitude-Mean	 <br>
+34) timeBodyAccelerometerMagnitude-SD	 <br>
+35) timeGravityAccelerometerMagnitude-Mean	 <br>
+36) timeGravityAccelerometerMagnitude-SD	 <br>
+37) timeBodyAccelerometerJerkMagnitude-Mean	 <br>
+38) timeBodyAccelerometerJerkMagnitude-SD	 <br>
+39) timeBodyGyroscopeMagnitude-Mean	 <br>
+40) timeBodyGyroscopeMagnitude-SD	 <br>
+41) timeBodyGyroscopeJerkMagnitude-Mean <br>	
+42) timeBodyGyroscopeJerkMagnitude-SD	 <br>
+43) frequencyBodyAccelerometer-Mean-Xaxis	 <br>
+44) frequencyBodyAccelerometer-Mean-Yaxis	 <br>
+45) frequencyBodyAccelerometer-Mean-Zaxis	 <br>
+46) frequencyBodyAccelerometer-SD-Xaxis	 <br>
+47) frequencyBodyAccelerometer-SD-Yaxis	 <br>
+48) frequencyBodyAccelerometer-SD-Zaxis	 <br>
+49) frequencyBodyAccelerometerJerk-Mean-Xaxis <br>	
+50) frequencyBodyAccelerometerJerk-Mean-Yaxis	 <br>
+51) frequencyBodyAccelerometerJerk-Mean-Zaxis	 <br>
+52) frequencyBodyAccelerometerJerk-SD-Xaxis	 <br>
+53) frequencyBodyAccelerometerJerk-SD-Yaxis	 <br>
+54) frequencyBodyAccelerometerJerk-SD-Zaxis	 <br>
+55) frequencyBodyGyroscope-Mean-Xaxis	 <br>
+56) frequencyBodyGyroscope-Mean-Yaxis	 <br>
+57) frequencyBodyGyroscope-Mean-Zaxis	 <br>
+58) frequencyBodyGyroscope-SD-Xaxis	 <br>
+59) frequencyBodyGyroscope-SD-Yaxis	 <br>
+60) frequencyBodyGyroscope-SD-Zaxis	 <br>
+61) frequencyBodyAccelerometerMagnitude-Mean	 <br>
+62) frequencyBodyAccelerometerMagnitude-SD	 <br>
+63) frequencyBodyBodyAccelerometerJerkMagnitude-Mean	 <br>
+64) frequencyBodyBodyAccelerometerJerkMagnitude-SD	 <br>
+65) frequencyBodyBodyGyroscopeMagnitude-Mean	 <br>
+66) frequencyBodyBodyGyroscopeMagnitude-SD	 <br>
+67) frequencyBodyBodyGyroscopeJerkMagnitude-Mean <br>	
+68) frequencyBodyBodyGyroscopeJerkMagnitude-SD <br>
 
 
 Data for this project was obtained from: 
