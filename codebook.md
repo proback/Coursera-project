@@ -42,7 +42,7 @@ on a -1 to 1 scale and thus unitless.  Here is a guide to these variable names:
 24) timeBodyGyroscope-SD-Xaxis	 <br>
 25) timeBodyGyroscope-SD-Yaxis	 <br>
 26) timeBodyGyroscope-SD-Zaxis	 <br>
-27) timeBodyGyroscopeJerk-Mean-Xaxis <br>	
+27) timeBodyGyroscopeJerk-Mean-Xaxis <br>
 28) timeBodyGyroscopeJerk-Mean-Yaxis	 <br>
 29) timeBodyGyroscopeJerk-Mean-Zaxis	 <br>
 30) timeBodyGyroscopeJerk-SD-Xaxis	 <br>
@@ -56,7 +56,7 @@ on a -1 to 1 scale and thus unitless.  Here is a guide to these variable names:
 38) timeBodyAccelerometerJerkMagnitude-SD	 <br>
 39) timeBodyGyroscopeMagnitude-Mean	 <br>
 40) timeBodyGyroscopeMagnitude-SD	 <br>
-41) timeBodyGyroscopeJerkMagnitude-Mean <br>	
+41) timeBodyGyroscopeJerkMagnitude-Mean <br>
 42) timeBodyGyroscopeJerkMagnitude-SD	 <br>
 43) frequencyBodyAccelerometer-Mean-Xaxis	 <br>
 44) frequencyBodyAccelerometer-Mean-Yaxis	 <br>
@@ -64,7 +64,7 @@ on a -1 to 1 scale and thus unitless.  Here is a guide to these variable names:
 46) frequencyBodyAccelerometer-SD-Xaxis	 <br>
 47) frequencyBodyAccelerometer-SD-Yaxis	 <br>
 48) frequencyBodyAccelerometer-SD-Zaxis	 <br>
-49) frequencyBodyAccelerometerJerk-Mean-Xaxis <br>	
+49) frequencyBodyAccelerometerJerk-Mean-Xaxis <br>
 50) frequencyBodyAccelerometerJerk-Mean-Yaxis	 <br>
 51) frequencyBodyAccelerometerJerk-Mean-Zaxis	 <br>
 52) frequencyBodyAccelerometerJerk-SD-Xaxis	 <br>
@@ -82,7 +82,7 @@ on a -1 to 1 scale and thus unitless.  Here is a guide to these variable names:
 64) frequencyBodyBodyAccelerometerJerkMagnitude-SD	 <br>
 65) frequencyBodyBodyGyroscopeMagnitude-Mean	 <br>
 66) frequencyBodyBodyGyroscopeMagnitude-SD	 <br>
-67) frequencyBodyBodyGyroscopeJerkMagnitude-Mean <br>	
+67) frequencyBodyBodyGyroscopeJerkMagnitude-Mean <br>
 68) frequencyBodyBodyGyroscopeJerkMagnitude-SD <br>
 
 
